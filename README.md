@@ -1,2 +1,2 @@
 # Simple_Graphic_Machine
-Graficadora simple hecha con Pandas
+Utilizando pandas, este programa abre un archivo en formato `.csv` para generar una gráfica de aceleración respecto a tiempo.
